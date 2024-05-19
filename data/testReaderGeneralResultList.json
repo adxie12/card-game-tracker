@@ -1,0 +1,14 @@
+{
+  "matchResults": [
+    {
+      "date": "March 1, 2024",
+      "roll": true,
+      "matchResult": "lose",
+      "deck": "Dark Magician",
+      "oppDeck": "Fire",
+      "oppName": "Bob"
+
+    }
+  ],
+  "name": "My results list"
+}

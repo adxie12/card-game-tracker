@@ -1,0 +1,21 @@
+{
+    "matchResults": [
+        {
+            "date": "March 7, 2024",
+            "oppDeck": "HERO",
+            "matchResult": "win",
+            "deck": "ABC",
+            "roll": true,
+            "oppName": "Chris"
+        },
+        {
+            "date": "March 6, 2024",
+            "oppDeck": "Floo",
+            "matchResult": "lose",
+            "deck": "Exosister",
+            "roll": false,
+            "oppName": "Josh"
+        }
+    ],
+    "name": "My results list"
+}
